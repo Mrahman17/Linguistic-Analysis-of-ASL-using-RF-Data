@@ -14,6 +14,8 @@ separated from imitation signers’ data in feature space. Moreover, the signals
 during two-handed signs are higher in signal energy than the signal of one-handed signs; thus for
 both the imitation and fluent signers, sign type (one- vs. two-handed) can be identified from the
 radar micro-Doppler signature
+![all Text](https://github.com/Mrahman17/Linguistic-Analysis-of-ASL-using-RF-Data/blob/main/fluent_imit_separation%20based%20on%20physical%20feature.png)
+
 ![all Text](https://github.com/Mrahman17/Linguistic-Analysis-of-ASL-using-RF-Data/blob/main/One%20handed%20vs%20two%20handed%20sign%20separation.bmp)
 
-![all Text](https://github.com/Mrahman17/Linguistic-Analysis-of-ASL-using-RF-Data/blob/main/avg_velocity_100words.bmp)
+
